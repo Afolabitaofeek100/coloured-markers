@@ -1,27 +1,24 @@
-# Project Name
+# COLORED MARKERS
 
-> One paragraph statement about the project.
+> This is an HTML, CSS project that helps in picking out color
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML,
+- CSS,
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[https://kogbagidi-coloured-markers.netlify.app/](https://livedemo.com)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/afolabitaofeek/coloured-markers.git
 ```
 
 - Install Dependencies
@@ -69,8 +66,8 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [@moshoodabdullahi](https://github.com/moshoodabdullahi)
-- Linkedin: [@moshoodabdullahi](https://www.linkedin.com/in/moshoodabdullahi/)
+- Github: [@afolabitaofeek](https://github.com/afolabitaofeek)
+- Linkedin: [@afolabitaofeek](https://www.linkedin.com/in/afolabitaofeek/)
 
 ## 🤝 Contributing
 
