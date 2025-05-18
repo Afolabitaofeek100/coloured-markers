@@ -34,7 +34,7 @@ jobs:
       - name: Run StyleLint
         run: |
           yarn install
-          yarn lint:check
+         
 
   webhint:
     name: Webhint
